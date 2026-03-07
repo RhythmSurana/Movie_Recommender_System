@@ -10,7 +10,7 @@ This application recommends movies similar to the one selected by the user and d
 - Recommend **5 similar movies**
 - Displays **movie posters**
 - Interactive **Streamlit web interface**
-- Fast recommendations using **cosine similarity**
+- Fast recommendations using **vectorizer** and **cosine similarity**
 - Uses **TMDB API** to fetch movie posters
 
 ---
@@ -32,10 +32,10 @@ This application recommends movies similar to the one selected by the user and d
 ```
 Movie-Recommender-System
 │
-├── movie_recommend.py     # Streamlit app
-├── movie_list.pkl         # Movie dataset
-├── similarity.pkl         # Similarity matrix
-├── main.py                # Model creation
+├── movie_recommend.py        # Streamlit app
+├── movie_list.pkl            # Movie dataset
+├── similarity.pkl            # Similarity matrix
+├── movie_recommender.ipynb   # Model creation
 └── README.md
 ```
 
@@ -111,7 +111,8 @@ api_key = "YOUR_API_KEY"
 Add your application screenshot here
 
 ```
-![App Screenshot](screenshot.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45544864-8a92-42cd-b7e8-c907a5edbda4" />
+
 ```
 
 ---
@@ -127,5 +128,5 @@ Add your application screenshot here
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username
+Rhythm
+GitHub: https://github.com/rhythmsurana
