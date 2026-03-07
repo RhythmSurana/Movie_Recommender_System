@@ -110,10 +110,7 @@ api_key = "YOUR_API_KEY"
 
 Add your application screenshot here
 
-```
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45544864-8a92-42cd-b7e8-c907a5edbda4" />
-
-```
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/58d78d82-1900-4297-bf02-1e4408aeff3c" />
 
 ---
 
@@ -129,4 +126,5 @@ Add your application screenshot here
 ## 👨‍💻 Author
 
 Rhythm
+
 GitHub: https://github.com/rhythmsurana
