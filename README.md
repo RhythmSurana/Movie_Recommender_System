@@ -27,6 +27,14 @@ This application recommends movies similar to the one selected by the user and d
 
 ---
 
+## 📂 Dataset
+
+The dataset used for this project is the **TMDB 5000 Movie Dataset** available on Kaggle.
+
+Download it here:
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ## 📂 Project Structure
 
 ```
